@@ -47,8 +47,16 @@ function display() {
 }
 display()
 
+<<<<<<< HEAD
 console.log('git practicing 2')
 console.log('git practicing 3')
+=======
+console.log('git practicing 3')
+
+console.log('git practicing 3')
+
+console.log('git practicing 324')
+>>>>>>> f565fc9a627aa9ecb9e45d006ec1e742a26ed624
 
 
 
