@@ -47,7 +47,8 @@ function display() {
 }
 display()
 
-console.log('git practicing')
+console.log('git practicing 2')
+console.log('git practicing 3')
 
 
 
